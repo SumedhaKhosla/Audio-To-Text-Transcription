@@ -1,0 +1,4 @@
+1) speech_recognition - For speech-to-text conversion
+2) pydub - For audio file manipulation
+3) ffmpeg - For audio format conversion
+4) google.colab - For file upload support (in Colab environment)
